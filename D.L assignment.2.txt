@@ -1,0 +1,73 @@
+1.
+An artificial neuron is a connection point in an artificial neural network. Artificial neural networks, 
+like the human body's biological neural network, have a layered architecture and each network node (connection point)
+ has the capability to process input and forward output to other nodes in the network.
+Artificial neuron also known as perceptron is the basic unit of the neural network. 
+In simple terms, it is a mathematical function based on a model of biological neurons. 
+It can also be seen as a simple logic gate with binary outputs. They are sometimes also called perceptrons.
+2.
+An activation function is a very important feature of an artificial neural network , 
+they basically decide whether the neuron should be activated or not.
+Linear activation function and Non-linear activation functions are the two types of activation functions.
+ Linear activation function is linear in shape and the output of function is not confined between any range.
+3.
+1.Rosenblatt perceptron is a binary single neuron model. The inputs integration is implemented through 
+the addition of the weighted inputs that have fixed weights obtained during the training stage.
+ If the result of this addition is larger than a given threshold θ the neuron fires
+A Perceptron is a neural network unit that does certain computations to detect features or business intelligence
+ in the input data. It is a function that maps its input “x,”
+which is multiplied by the learned weight coefficient, and generates an output value ”f(x)
+2.
+The XOR problem with neural networks can be solved by using Multi-Layer Perceptrons 
+or a neural network architecture with an input layer,
+ hidden layer, and output layer. So during the forward propagation through the neural networks,
+ the weights get updated to the corresponding layers and the XOR logic gets executed
+3..
+An Artificial Neural Network (ANN) is an information processing paradigm that is inspired by the brain.
+ ANNs, like people, learn by examples. An ANN is configured for a specific application, 
+such as pattern recognition or data classification, through a learning process
+An ANN is configured for a specific application, such as pattern recognition or data classification, through a learning process.
+...
+Single-layer feed-forward network. ...
+Multilayer feed-forward network. ...
+Single node with its own feedback. ...
+Single-layer recurrent network. ...
+Multilayer recurrent network.
+4.
+An artificial neural network's learning rule or learning process is a method, mathematical logic or
+ algorithm which improves the network's performance and/or training time.
+ Usually, this rule is applied repeatedly over the network.
+5.
+Backpropagation (backward propagation) is an important mathematical tool for improving the accuracy of predictions in data mining and machine learning. Essentially,
+ backpropagation is an algorithm used to calculate derivatives quickly.
+The biggest disadvantages of backpropagation are: Backpropagation could be rather sensitive to noisy data and irregularity.
+ The performance of backpropagation relies very heavily on the training data. 
+Backpropagation needs a very large amount of time for training.
+7.
+Step 1: Inputs X, arrive through the preconnected path. 
+Step 2: The input is modeled using true weights W. Weights are usually chosen randomly.
+ Step 3: Calculate the output of each neuron from the input layer to the hidden layer to the output layer
+8.
+1.The first artificial neuron was proposed in 1943, by Warren McCulloch and Walter Pitts. 
+This simple artificial neuron is called a perceptron. Data enters the perceptron, 
+undergoes mathematical calculations, and then leaves the perceptron
+2. A multilayer perceptron (MLP) is a feedforward artificial neural network that
+ generates a set of outputs from a set of inputs. An MLP is characterized 
+by several layers of input nodes connected as a directed graph between 
+the input and output layers. MLP uses backpropogation for training the network.
+3.Deep learning is a type of machine learning and artificial intelligence (AI) that imitates the way humans gain certain types of knowledge.
+ Deep learning is an important element of data science, which includes statistics and predictive modeling.
+4.
+he amount that the weights are updated during training is referred to as the step size or the “learning rate.” 
+Specifically, the learning rate is a configurable hyperparameter used in the training of neural networks 
+that has a small positive value, often in the range between 0.0 and 1.0.
+2.
+1.Binary step function is a threshold-based activation function which means after a certain 
+threshold neuron is activated and below the said threshold neuron is deactivated. 
+2.A sigmoid function produces similar results to step function in that the output is between 0 and 1. The curve crosses 0.5 at z=0, which we can set up rules for the activation function, 
+such as: If the sigmoid neuron's output is larger than or equal to 0.5, it outputs 1;
+ if the output is smaller than 0.5, it outputs 0.
+3.In a multilayer perceptron (MLP), single-layer perceptrons (SLP) are arranged in layers and connected to each other,
+ with the outputs of the SLPs in the output layer being the outputs of the MLP
+
+
